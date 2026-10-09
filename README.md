@@ -26,7 +26,7 @@ The objective is to identify opportunities to improve conversions, optimize mark
 
 ## Dashboard Preview
 
-![BrightCart Dashboard](BrightCart_Dashboard.png)
+![BrightCart Dashboard](Brightcart%20dashboard.png)
 
 ## Key Findings
 
