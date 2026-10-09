@@ -1,90 +1,119 @@
-# BrightCart Online Retail Performance Analysis
+# 🛍️ E-Commerce Insights & Retail Performance Analytics
 
-## Project Overview
+### Customer Behaviour | Website Traffic | Conversion Optimization
 
-This project analyzes online retail performance, focusing on website traffic, conversion behavior, marketing channel effectiveness, customer segments, and geographic distribution.
+**Transforming digital activity into actionable business insights.**
 
-The objective is to identify opportunities to improve conversions, optimize marketing spend, and help the business reach the right customers at the right time.
+BrightCart is an e-commerce analytics project focused on understanding website engagement, acquisition channels, customer behaviour, and conversion patterns. The goal is to identify performance trends and opportunities to improve the online shopping experience.
 
-## Business Objectives
+---
 
-- Identify peak and low website traffic periods.
-- Evaluate traffic and conversions across marketing channels.
-- Identify opportunities to improve conversion rates.
-- Analyze customer behavior across countries, genders, and devices.
-- Provide actionable recommendations for campaign and website optimization.
+## 📊 Interactive Dashboard Showcase
 
-## Key Performance Indicators (KPIs)
+<p align="center">
+  <img src="Brightcart%20dashboard.png" alt="BrightCart E-Commerce Analytics Dashboard" width="100%" />
+</p>
 
-| Metric | Result |
-|---|---:|
-| Total Sessions | 1,079 |
-| Total Conversions | 447 |
-| Total Page Views | 8,679 |
-| Total Users | 500 |
-| Sessions Duration | 204,201 |
+<p align="center">
+  <img src="https://img.shields.io/badge/SESSIONS-1,079-2563EB?style=for-the-badge" alt="1,079 sessions" />
+  <img src="https://img.shields.io/badge/USERS-500-7C3AED?style=for-the-badge" alt="500 users" />
+  <img src="https://img.shields.io/badge/PAGE_VIEWS-8,679-0891B2?style=for-the-badge" alt="8,679 page views" />
+  <img src="https://img.shields.io/badge/CONVERSIONS-447-059669?style=for-the-badge" alt="447 conversions" />
+</p>
 
-## Dashboard Preview
+---
 
-![BrightCart Dashboard](Brightcart%20dashboard.png)
+## 🔎 Key Findings & Business Insights
 
-## Key Findings
+### 🕒 01. Website Traffic Trends
 
-### 1. Traffic Timing
-- The highest sustained traffic peak occurred around 7 PM, with 57 sessions.
-- Traffic was lowest at 1 PM, with 27 sessions.
-- Monday recorded the highest daily traffic at 188 sessions.
+<p>
+  <img src="https://img.shields.io/badge/Peak_Hour-7_PM-2563EB?style=flat-square" alt="Peak hour: 7 PM" />
+  <img src="https://img.shields.io/badge/Peak_Day-Monday-7C3AED?style=flat-square" alt="Peak day: Monday" />
+</p>
 
-### 2. Conversion Optimization
-- The highest conversion rates occurred at midnight and 2 AM, at 23%.
-- Other strong conversion periods included 7 AM, 11 AM, 4 PM, and 6–7 PM.
-- 1 PM recorded the lowest conversion rate at 7%.
+Website traffic peaked at **7 PM**, generating 57 sessions. Monday recorded the highest daily traffic with 188 sessions, while Wednesday recorded the lowest at 124 sessions.
 
-### 3. Marketing Channel Effectiveness
-- Organic Search generated 366 sessions and 158 conversions.
-- Direct traffic generated 345 sessions and 148 conversions.
-- Referral generated 136 sessions and 56 conversions.
-- Social and Paid channels generated lower traffic and conversion volumes than Organic Search and Direct.
+**Business opportunity:** Test marketing campaigns during high-traffic periods and investigate what drives lower engagement on Wednesdays.
 
-### 4. Geographic Performance
-- Canada accounted for 37.63% of website traffic.
-- The United States accounted for 31.60%.
-- The United Kingdom accounted for 30.77%.
+### 🔍 02. Acquisition Channel Performance
 
-### 5. Device and Customer Segments
-- Mobile accounted for the majority of device usage for both male and female users.
-- Mobile usage was 60.88% among male users and 55.01% among female users.
-- Tablet usage was approximately 4% for both groups.
+<p>
+  <img src="https://img.shields.io/badge/Top_Channel-Organic_Search-059669?style=flat-square" alt="Top channel: Organic Search" />
+  <img src="https://img.shields.io/badge/Organic_Sessions-366-0891B2?style=flat-square" alt="366 organic sessions" />
+</p>
 
-## Business Recommendations
+Organic Search generated **366 sessions and 158 conversions**, followed by Direct traffic with 345 sessions and 148 conversions.
 
-- Schedule major promotions during high-traffic periods, particularly 6–7 PM.
-- Investigate the low conversion rate at 1 PM and test improvements to landing pages and checkout.
-- Strengthen Organic Search and Direct traffic strategies.
-- Improve Paid and Social campaigns through better targeting, creative content, and landing pages.
-- Prioritize mobile usability, page speed, and a simpler checkout process.
-- Tailor promotions and website experiences to geographic markets.
-- Use consistent campaign tracking to improve measurement of marketing performance.
+**Business opportunity:** Examine successful search pages and keywords to identify ways to attract more qualified visitors.
 
-## Tools Used
+### 📈 03. Conversion Behaviour
 
-- Excel dashboarding and analysis
-- Data visualization
-- Website performance analysis
-- Conversion and channel analysis
+<p>
+  <img src="https://img.shields.io/badge/Highest_Reported_Rate-23%25-059669?style=flat-square" alt="Highest reported conversion rate: 23%" />
+  <img src="https://img.shields.io/badge/Lowest_Reported_Rate-7%25-DC2626?style=flat-square" alt="Lowest reported conversion rate: 7%" />
+</p>
 
-## Skills Demonstrated
+The reported conversion rate peaked at **23% at midnight and 2 AM**, while 1 PM recorded the lowest rate at 7%.
 
-- KPI analysis and reporting
-- Website traffic analysis
-- Conversion rate analysis
-- Marketing channel performance evaluation
-- Customer segmentation
-- Geographic analysis
-- Data-driven business recommendations
+**Business opportunity:** Investigate differences in visitor intent, traffic sources, and the checkout journey during lower-converting periods.
 
-## Project Outcome
+### 🌎 04. Geographic Performance
 
-The analysis identifies opportunities to improve campaign timing, increase conversion efficiency, optimize marketing channel performance, and strengthen the mobile shopping experience.
+<p>
+  <img src="https://img.shields.io/badge/Canada-37.63%25-DC2626?style=flat-square" alt="Canada: 37.63%" />
+  <img src="https://img.shields.io/badge/United_States-31.60%25-2563EB?style=flat-square" alt="United States: 31.60%" />
+  <img src="https://img.shields.io/badge/United_Kingdom-30.77%25-7C3AED?style=flat-square" alt="United Kingdom: 30.77%" />
+</p>
 
-*Note: The findings and recommendations reflect the analysis presented in this portfolio project.*
+Canada represented the largest share of reported traffic, followed by the United States and the United Kingdom.
+
+**Business opportunity:** Compare engagement and conversion outcomes across markets before deciding where to focus marketing resources.
+
+### 📱 05. Device & Customer Experience
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Mobile_Experience-0891B2?style=flat-square" alt="Focus: Mobile experience" />
+</p>
+
+The reported device breakdown showed that mobile accounted for the largest share within both gender groups.
+
+**Business opportunity:** Review mobile page speed, product discovery, navigation, and checkout usability to identify potential friction points.
+
+---
+
+## 💡 Recommended Actions
+
+- **Acquire:** Strengthen organic search strategies using insights from high-performing traffic sources.
+- **Convert:** Investigate low-converting periods and test improvements to the customer journey.
+- **Optimize:** Review the mobile shopping experience across key website pages.
+- **Target:** Evaluate regional performance to inform market-specific campaigns.
+- **Measure:** Monitor sessions, conversions, and other KPIs to assess the impact of future changes.
+
+*Recommendations are proposed opportunities for testing, not claims of results already achieved.*
+
+---
+
+## 🛠️ Technical Skills & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Data_Analytics-2563EB?style=for-the-badge" alt="Data Analytics" />
+  <img src="https://img.shields.io/badge/Data_Visualization-7C3AED?style=for-the-badge" alt="Data Visualization" />
+  <img src="https://img.shields.io/badge/KPI_Reporting-0891B2?style=for-the-badge" alt="KPI Reporting" />
+  <img src="https://img.shields.io/badge/Business_Intelligence-059669?style=for-the-badge" alt="Business Intelligence" />
+</p>
+
+**Analytical Focus:** E-commerce Analytics · Customer Behaviour · Traffic Acquisition · Conversion Analysis · Performance Reporting
+
+---
+
+## 🎯 Project Takeaway
+
+BrightCart demonstrates how website performance data can reveal patterns in visitor engagement, acquisition, and conversion behaviour. By connecting analytical findings with targeted recommendations, the project illustrates how data can support more informed digital business decisions.
+
+---
+
+<p align="center">
+  <b>Understand the traffic. Discover the patterns. Improve the experience.</b>
+</p>
